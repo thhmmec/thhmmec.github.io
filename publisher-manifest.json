@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "bd03e17ef1af64c6c7b66243",
+  "owner": "thhmmec",
+  "repo": "thhmmec.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "f84a0d09ad7f60013bfe8cd9",
+      "a": "翼游(Yiyo)",
+      "b": "网络加速服务",
+      "entity": "翼游(Yiyo)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c3fdd54dbf9e9a517cd434b10afe8921ad591f7de88fc6f1dd7ba51060e64263",
+      "content": {
+        "primary_entity": "翼游(Yiyo)",
+        "keyword1": "翼游(Yiyo)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择客户端：电脑用桌面端客户端，手机用移动应用，路由器按固件说明手动配置。",
+          "AI_CLIENTS_TITLE": "适配设备与客户端",
+          "AI_CLOSING_TEXT": "按设备数量与月流量选定版本后即可开始配置。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，围绕套餐选择、设备数量与订阅配置展开，帮助用户按自身的设备规模与流量需求挑选版本，并完成客户端订阅导入。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解翼游的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "流量档位由基础版到团队版逐级提升，按日常用量选定合适版本。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "基础版到团队版支持的同时在线设备数量递增，按设备规模选择。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_3": "月付与年付均可，年付方案价格更优，订阅周期可在购买时自行决定。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，按设备与流量需求逐步配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "翼游为不同设备规模提供网络加速方案，涵盖基础、旗舰与团队三档套餐，用户可按每月流量与同时在线设备数选定版本，再根据设备类型导入订阅。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量灵活选择版本",
+          "AI_HIGHLIGHT_3": "年付方案降低长期成本",
+          "AI_PLANS_INTRO": "根据每月流量与同时在线设备数，在基础版、旗舰版和团队版之间选定适合的版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先明确每月流量需求与需要同时在线的设备数量，再对照套餐版本进行选择。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_2": "查看所选版本对设备类型、客户端与线路的适配要求，确认与现有设备匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入说明完成配置，导入后测试连接与速度是否正常。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "选择适合的加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持较少设备，旗舰版支持中等数量设备，团队版支持多台设备同时在线。按同时在线设备数选择，超出后可升级套餐或减少同时连接数。",
+          "AI_FAQ_ANSWER_2": "月付与年付功能一致，年付价格更优惠。长期使用选年付，短期或临时需求选月付，切换周期前留意当前周期剩余时间。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供IPLC专线游戏加速优化，团队版有VIP专属高带宽节点。普通浏览与视频，基础版已可满足。",
+          "AI_FAQ_ANSWER_4": "在客户端内导入订阅配置后即可更新节点列表。不同系统按对应客户端文档操作，订阅更新后重启客户端生效。",
+          "AI_FAQ_ANSWER_5": "旗舰版含优先工单支持，团队版配专属客户经理。遇到订阅或连接问题，可通过工单渠道反馈。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别，如何选择？",
+          "AI_FAQ_QUESTION_3": "哪个套餐适合游戏加速或流媒体解锁？",
+          "AI_FAQ_QUESTION_4": "订阅配置如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "遇到连接问题可以找谁支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5a4448358370a07d5fa816157b05093d1dd1d98552c5d713e8ea4dbdf0382680",
+    "sitemap.xml": "955946870cf2c031ffd95b92da40e0d0ed0422dac7f809ed0880d4957bbe004a",
+    "robots.txt": "74682d59a4479b81994b9b8469392ff0a63fa35e341c4aa980a2e51ea2201bff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "06a30bcaa537b9bdff3ec104639184647e1d9f6dcd872a35c4adec03506e139f"
+}

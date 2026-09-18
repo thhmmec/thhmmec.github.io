@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thhmmec.github.io/sitemap.xml
